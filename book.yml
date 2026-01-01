@@ -1,0 +1,25 @@
+---
+title: 새 책 제목
+subtitle: 부제목을 입력하세요
+author: 저자명
+publisher: 출판사명
+documents:
+  front_matter:
+  - file: prologue.md
+    title: 책을 펴내며
+    type: prologue
+  body_matter:
+  - file: chapter_01.md
+    title: 여기는 1장 제목
+    type: chapter
+  - file: chapter_02.md
+    title: 여기는 2장 제목
+    type: chapter
+  - file: chapter_03.md
+    title: 여기는 3장 제목
+    type: chapter
+  - file: chapter_04.md
+    title: 여기는 4장 제목
+    type: chapter
+  back_matter: []
+last_synced: '2026-01-02T07:41:54+09:00'
